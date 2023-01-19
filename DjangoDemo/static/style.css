@@ -1,0 +1,37 @@
+body {
+    background-image:url(images/background2.png);
+    background-size:cover;
+}
+
+#body {
+    width:max-content;
+    margin:auto;
+}
+
+p {
+    color:azure
+}
+
+.dashboard {
+    border-radius: 15px;
+}
+
+#nav-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+
+#links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 160px;
+    margin-right: 500px;
+}
+
+a {
+    color: azure;
+    font-size:x-large;
+}
